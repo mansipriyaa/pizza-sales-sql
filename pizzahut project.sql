@@ -137,7 +137,7 @@ ORDER BY Revenue DESC
 LIMIT 3;
 
 
--- INTERMEDIATE Questions Set
+-- ADVANCE Questions Set
 
 -- Q11: Calculate the percentage contribution of each pizza type to total revenue.
 
